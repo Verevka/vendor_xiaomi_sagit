@@ -101,6 +101,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sagit/proprietary/lib64/libmorpho_panorama_gp.so:system/lib64/libmorpho_panorama_gp.so \
     vendor/xiaomi/sagit/proprietary/lib64/libmorpho_panorama.so:system/lib64/libmorpho_panorama.so \
     vendor/xiaomi/sagit/proprietary/lib64/libqminvapi.so:system/lib64/libqminvapi.so \
+    vendor/xiaomi/sagit/proprietary/lib64/libqti-at.so:system/lib64/libqti-at.so \
     vendor/xiaomi/sagit/proprietary/lib64/librcc.so:system/lib64/librcc.so \
     vendor/xiaomi/sagit/proprietary/lib64/libsd_sdk_display.so:system/lib64/libsd_sdk_display.so \
     vendor/xiaomi/sagit/proprietary/lib64/libsensor_calJNI.so:system/lib64/libsensor_calJNI.so \
@@ -171,6 +172,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sagit/proprietary/lib/libmorpho_panorama_gp.so:system/lib/libmorpho_panorama_gp.so \
     vendor/xiaomi/sagit/proprietary/lib/libmorpho_panorama.so:system/lib/libmorpho_panorama.so \
     vendor/xiaomi/sagit/proprietary/lib/libqminvapi.so:system/lib/libqminvapi.so \
+    vendor/xiaomi/sagit/proprietary/lib/libqti-at.so:system/lib/libqti-at.so \
     vendor/xiaomi/sagit/proprietary/lib/librcc.so:system/lib/librcc.so \
     vendor/xiaomi/sagit/proprietary/lib/libsd_sdk_display.so:system/lib/libsd_sdk_display.so \
     vendor/xiaomi/sagit/proprietary/lib/libsensor_calJNI.so:system/lib/libsensor_calJNI.so \
