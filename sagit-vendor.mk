@@ -935,8 +935,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sagit/proprietary/vendor/lib64/egl/libq3dtools_adreno.so:vendor/lib64/egl/libq3dtools_adreno.so \
     vendor/xiaomi/sagit/proprietary/vendor/lib64/egl/libq3dtools_esx.so:vendor/lib64/egl/libq3dtools_esx.so \
     vendor/xiaomi/sagit/proprietary/vendor/lib64/hw/activity_recognition.msm8998.so:vendor/lib64/hw/activity_recognition.msm8998.so \
-    vendor/xiaomi/sagit/proprietary/vendor/lib64/hw/fingerprint.fpc.so:vendor/lib64/hw/fingerprint.fpc.so \
-    vendor/xiaomi/sagit/proprietary/vendor/lib64/hw/fingerprint.goodix.so:vendor/lib64/hw/fingerprint.goodix.so \
+    vendor/xiaomi/sagit/proprietary/vendor/lib64/hw/fingerprint.fpc.so:vendor/lib64/hw/fingerprint.fpc.msm8998.so \
+    vendor/xiaomi/sagit/proprietary/vendor/lib64/hw/fingerprint.goodix.so:vendor/lib64/hw/fingerprint.goodix.msm8998.so \
     vendor/xiaomi/sagit/proprietary/vendor/lib64/hw/gatekeeper.msm8998.so:vendor/lib64/hw/gatekeeper.msm8998.so \
     vendor/xiaomi/sagit/proprietary/vendor/lib64/hw/keystore.msm8998.so:vendor/lib64/hw/keystore.msm8998.so \
     vendor/xiaomi/sagit/proprietary/vendor/lib64/hw/sound_trigger.primary.msm8998.so:vendor/lib64/hw/sound_trigger.primary.msm8998.so \
