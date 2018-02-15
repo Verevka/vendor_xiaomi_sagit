@@ -1223,6 +1223,19 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sagit/proprietary/vendor/lib/vendor.qti.voiceprint@1.0.so:system/vendor/lib/vendor.qti.voiceprint@1.0.so \
     vendor/xiaomi/sagit/proprietary/vendor/radio/qcril_database/qcril.db:system/vendor/radio/qcril_database/qcril.db
 
+# Specific MiuiCamera blobs
+PRODUCT_COPY_FILES += \
+    vendor/xiaomi/sagit/proprietary/lib/libCameraEffectJNI.so:system/lib/libCameraEffectJNI.so \
+    vendor/xiaomi/sagit/proprietary/lib/libminui.so:system/lib/libminui.so \
+    vendor/xiaomi/sagit/proprietary/lib/libmorpho_groupshot.so:system/lib/libmorpho_groupshot.so \
+    vendor/xiaomi/sagit/proprietary/lib/libts_detected_face_jni.so:system/lib/libts_detected_face_jni.so \
+    vendor/xiaomi/sagit/proprietary/lib/libts_face_beautify_jni.so:system/lib/libts_face_beautify_jni.so \
+    vendor/xiaomi/sagit/proprietary/vendor/lib/libts_detected_face_hal.so:system/vendor/lib/libts_detected_face_hal.so \
+    vendor/xiaomi/sagit/proprietary/vendor/lib/libts_face_beautify_hal.so:system/vendor/lib/libts_face_beautify_hal.so \
+    vendor/xiaomi/sagit/proprietary/lib64/libCameraEffectJNI.so:system/lib64/libCameraEffectJNI.so \
+    vendor/xiaomi/sagit/proprietary/lib64/libminui.so:system/lib64/libminui.so \
+    vendor/xiaomi/sagit/proprietary/lib64/libmorpho_groupshot.so:system/lib64/libmorpho_groupshot.so
+
 PRODUCT_PACKAGES += \
     CNEService \
     colorservice \
