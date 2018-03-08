@@ -378,6 +378,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sagit/proprietary/vendor/lib/libadsp_hvx_stub.so:vendor/lib/libadsp_hvx_stub.so \
     vendor/xiaomi/sagit/proprietary/vendor/lib/libadsprpc.so:vendor/lib/libadsprpc.so \
     vendor/xiaomi/sagit/proprietary/vendor/lib/libalarmservice_jni.so:vendor/lib/libalarmservice_jni.so \
+    vendor/xiaomi/sagit/proprietary/vendor/lib/libaptXHD_encoder.so:vendor/lib/libaptXHD_encoder.so \
+    vendor/xiaomi/sagit/proprietary/vendor/lib/libaptX_encoder.so:vendor/lib/libaptX_encoder.so \
     vendor/xiaomi/sagit/proprietary/vendor/lib/libarcsoft_beauty_shot.so:vendor/lib/libarcsoft_beauty_shot.so \
     vendor/xiaomi/sagit/proprietary/vendor/lib/libarcsoft_beautyshot.so:vendor/lib/libarcsoft_beautyshot.so \
     vendor/xiaomi/sagit/proprietary/vendor/lib/libarcsoft_beautyshot_image_algorithm.so:vendor/lib/libarcsoft_beautyshot_image_algorithm.so \
@@ -982,6 +984,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sagit/proprietary/vendor/lib64/libadsp_default_listener.so:vendor/lib64/libadsp_default_listener.so \
     vendor/xiaomi/sagit/proprietary/vendor/lib64/libadsprpc.so:vendor/lib64/libadsprpc.so \
     vendor/xiaomi/sagit/proprietary/vendor/lib64/libalarmservice_jni.so:vendor/lib64/libalarmservice_jni.so \
+    vendor/xiaomi/sagit/proprietary/vendor/lib64/libaptXHD_encoder.so:vendor/lib64/libaptXHD_encoder.so \
+    vendor/xiaomi/sagit/proprietary/vendor/lib64/libaptX_encoder.so:vendor/lib64/libaptX_encoder.so \
     vendor/xiaomi/sagit/proprietary/vendor/lib64/libaudcal.so:vendor/lib64/libaudcal.so \
     vendor/xiaomi/sagit/proprietary/vendor/lib64/libbccQTI.so:vendor/lib64/libbccQTI.so \
     vendor/xiaomi/sagit/proprietary/vendor/lib64/libbtnv.so:vendor/lib64/libbtnv.so \
