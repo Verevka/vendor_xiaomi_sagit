@@ -413,7 +413,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sagit/proprietary/vendor/lib64/libgeofence.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgeofence.so \
     vendor/xiaomi/sagit/proprietary/vendor/lib64/libgf_ca.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgf_ca.so \
     vendor/xiaomi/sagit/proprietary/vendor/lib64/libgf_hal.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgf_hal.so \
-    vendor/xiaomi/sagit/proprietary/vendor/lib64/libgnsspps.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgnsspps.so \
     vendor/xiaomi/sagit/proprietary/vendor/lib64/libGPreqcancel.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libGPreqcancel.so \
     vendor/xiaomi/sagit/proprietary/vendor/lib64/libGPreqcancel_svc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libGPreqcancel_svc.so \
     vendor/xiaomi/sagit/proprietary/vendor/lib64/libgsl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgsl.so \
@@ -902,7 +901,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sagit/proprietary/vendor/lib/libgeofence.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgeofence.so \
     vendor/xiaomi/sagit/proprietary/vendor/lib/libgf_ca.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgf_ca.so \
     vendor/xiaomi/sagit/proprietary/vendor/lib/libgf_hal.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgf_hal.so \
-    vendor/xiaomi/sagit/proprietary/vendor/lib/libgnsspps.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgnsspps.so \
     vendor/xiaomi/sagit/proprietary/vendor/lib/libGPreqcancel.so:$(TARGET_COPY_OUT_VENDOR)/lib/libGPreqcancel.so \
     vendor/xiaomi/sagit/proprietary/vendor/lib/libGPreqcancel_svc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libGPreqcancel_svc.so \
     vendor/xiaomi/sagit/proprietary/vendor/lib/libgsl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgsl.so \
