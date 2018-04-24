@@ -1212,6 +1212,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     vendor/xiaomi/sagit/proprietary/lib/libCameraEffectJNI.so:system/lib/libCameraEffectJNI.so \
     vendor/xiaomi/sagit/proprietary/lib/libminui.so:system/lib/libminui.so \
+    vendor/xiaomi/sagit/proprietary/lib/libmisk.so:system/lib/libmisk.so \
     vendor/xiaomi/sagit/proprietary/lib/libmorpho_groupshot.so:system/lib/libmorpho_groupshot.so \
     vendor/xiaomi/sagit/proprietary/lib/libts_detected_face_jni.so:system/lib/libts_detected_face_jni.so \
     vendor/xiaomi/sagit/proprietary/lib/libts_face_beautify_jni.so:system/lib/libts_face_beautify_jni.so \
